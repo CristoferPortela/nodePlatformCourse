@@ -1,0 +1,8 @@
+ex:
+
+docs: the stuff do things
+feat: add stuff to thing 
+fix: stuff not do thing anymore
+refactor: thing shares content to thing 
+style: tabs before stuff 
+test: be sure the stuff do not make things
